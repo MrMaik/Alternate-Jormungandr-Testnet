@@ -18,6 +18,9 @@
     #rdlrt
     - address: /ip4/139.99.221.149/tcp/4004
       id: ab1cd3c94161ab06c058697a19095a6ed91d85688a2b7a21
+    #mike
+    - address: /ip4/37.0.94.41/tcp/4100
+      id: fd3b1cf412ad856251fbcf69369be4223e229d725c58e76a
 ```
 
 ### Genesis Hash:
